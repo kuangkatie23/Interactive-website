@@ -1,0 +1,79 @@
+h1{
+    font-family: Garamond;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid white;
+}
+h2{
+    font-size: x-large;
+    color: blue;
+}
+h3{
+    font-size: x-large;
+    color: white;
+}
+#song1{
+    color:blue;
+    font-size: x-large
+} 
+#song2{
+    color:white;
+    font-size: x-large;
+}
+.text{
+    text-decoration: none;
+}
+#Images{
+    height: 500px;
+    width:auto;
+}
+body{
+    background-color:lightslategray
+}
+.text{
+    display: block;
+    font-size: medium
+}
+.underlined{
+    text-decoration: underline;
+}
+.songs-container{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between
+}
+.song-section{
+    flex:1;
+    max-width: 45%;
+}
+.songs-container{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between
+}
+.Text-1{
+    font-size:x-large;
+    text-align: Left;
+    color:darkslateblue;
+}
+.Text-2{
+    font-size: x-large;
+    text-align: Right;
+    color:darkslateblue;
+}
+.Text-3{
+    font-size: x-large;
+    text-align: center;
+    color:darkslateblue;
+}
+#options{
+    font-size: x-large;
+}
+#Ending{
+    font-size: xx-large;
+}
+.p{
+    font-size:x-large;
+    font-family:optima;
+}
